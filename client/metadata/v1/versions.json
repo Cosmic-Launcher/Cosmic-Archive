@@ -1,5 +1,35 @@
 [
   {
+    "version": "pre-alpha 0.3.6",
+    "type": "release",
+    "url": "https://github.com/n3liz/Cosmic-Archive/raw/main/client/Cosmic%20Reach-0.3.6.jar",
+    "hash": "4f0e17f978bd2ba6eec4e6d235de1d46f9d34e6bf4639088a56fb5a7d7b7d2f4"
+  },
+  {
+    "version": "pre-alpha 0.3.5",
+    "type": "release",
+    "url": "https://github.com/n3liz/Cosmic-Archive/raw/main/client/Cosmic%20Reach-0.3.5.jar",
+    "hash": "4711b749b024ac48830e54ac5a56e5c1f80b33c45cd25647e5360ff12dc5b7bb"
+  },
+  {
+    "version": "pre-alpha 0.3.4",
+    "type": "release",
+    "url": "https://github.com/n3liz/Cosmic-Archive/raw/main/client/Cosmic%20Reach-0.3.4.jar",
+    "hash": "e25dff2a67eb53704c4303c15de85c9eb18a5002548ca2671e82c0bacc589266"
+  },
+  {
+    "version": "pre-alpha 0.3.3",
+    "type": "release",
+    "url": "https://github.com/n3liz/Cosmic-Archive/raw/main/client/Cosmic%20Reach-0.3.3.jar",
+    "hash": "0cf61c2755eac78fd2e5de5d26f9b21b5cfec153b30527c65efd10f5ec1b4f95"
+  },
+  {
+    "version": "pre-alpha 0.3.2",
+    "type": "release",
+    "url": "https://github.com/n3liz/Cosmic-Archive/raw/main/client/Cosmic%20Reach-0.3.2.jar",
+    "hash": "b3615aabc64e6eda212334e9104081c9ead318b59e615fe6b09a9efd63273ff6"
+  },
+  {
     "version": "pre-alpha 0.3.2-pre10",
     "type": "snapshot",
     "url": "https://github.com/n3liz/Cosmic-Archive/raw/main/client/Cosmic%20Reach-0.3.2-pre10.jar",
