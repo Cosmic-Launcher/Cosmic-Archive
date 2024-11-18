@@ -1,5 +1,11 @@
 [
   {
+    "version": "pre-alpha 0.3.7",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.7.jar",
+    "hash": "295d4c4a74045ebac4b535681d275c6fcf856cfb3d8684c53285a8c7eca84389"
+  },
+  {
     "version": "pre-alpha 0.3.6",
     "type": "release",
     "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.6.jar",
