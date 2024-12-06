@@ -1,9 +1,15 @@
 {
   "latest": {
-    "release": "pre-alpha 0.3.8",
-    "snapshot": "pre-alpha 0.3.8"
+    "release": "pre-alpha 0.3.9",
+    "snapshot": "pre-alpha 0.3.9"
   },
   "versions": [
+    {
+      "id": "pre-alpha 0.3.9",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.9.jar",
+      "sha256": "2f85bb2e170d4ef675c7502320938e88cba7165afc147ab79f01c5ec34c6daaa"
+    },
     {
       "id": "pre-alpha 0.3.8",
       "type": "release",
