@@ -1,5 +1,23 @@
 [
   {
+    "version": "pre-alpha 0.3.12",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.12.jar",
+    "hash": "70ab5cb563da2c8d368c1dc017eed0c86f9426bf156b0686c3530099c41cb83a"
+  },
+  {
+    "version": "pre-alpha 0.3.11",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.11.jar",
+    "hash": "90293a7e10a7e27aeada3050db4fa211fb1ff14d49f3a5dff0a93aeef8733f49"
+  },
+  {
+    "version": "pre-alpha 0.3.10",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.10.jar",
+    "hash": "931e9e08165e9e41b7471e716f3915b99a26409f6458d8de0af99eef7d2762da"
+  },
+  {
     "version": "pre-alpha 0.3.9",
     "type": "release",
     "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.9.jar",
