@@ -1,9 +1,69 @@
 {
   "latest": {
-    "release": "pre-alpha 0.3.12",
-    "snapshot": "pre-alpha 0.3.12"
+    "release": "pre-alpha 0.3.21",
+    "snapshot": "pre-alpha 0.3.21"
   },
   "versions": [
+    {
+      "id": "pre-alpha 0.3.21",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.21.jar",
+      "sha256": "fb7e466ce9704bc19024925aa1cbb5c2c33d9a69276073a3f2402b5fb3176389"
+    },
+    {
+      "id": "pre-alpha 0.3.20",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.20.jar",
+      "sha256": "a765b29e8ee687dd6e150631f8ec7a48d88e0850bad38d70d633a141d28bb977"
+    },
+    {
+      "id": "pre-alpha 0.3.19b",
+      "type": "snapshot",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.19b.jar",
+      "sha256": "4d22d2b432897063121098e25de52d9587e39e43334aa62ed0de0a7ae890421f"
+    },
+    {
+      "id": "pre-alpha 0.3.19",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.19.jar",
+      "sha256": "5573cacf3fdc4ca6d162bf18d05a18620825cb8c24db734077f8e999d8817d4b"
+    },
+    {
+      "id": "pre-alpha 0.3.18",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.18.jar",
+      "sha256": "5092cd438fdf85400424047b4d05f9f59f47e4f27f4087bb910ed532b5f21d7b"
+    },
+    {
+      "id": "pre-alpha 0.3.17",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.17.jar",
+      "sha256": "1ecffee81ad56643762102c9213562f061a8ec4a18b6df7551d6fbe2c25c1876"
+    },
+    {
+      "id": "pre-alpha 0.3.16",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.16.jar",
+      "sha256": "20114e2555d81dbd94b6f76decb0da64df8eb400dd278bc75bc905cd840b3bc3"
+    },
+    {
+      "id": "pre-alpha 0.3.15",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.15.jar",
+      "sha256": "fa7f46d19328b455a503599961c1ea773b545f1c8a4e201554f4369aecae1ec2"
+    },
+    {
+      "id": "pre-alpha 0.3.14",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.14.jar",
+      "sha256": "70915270401bf4ada7e3f6b909eebef397a0d896ed192029ec1fecd98eed54d6"
+    },
+    {
+      "id": "pre-alpha 0.3.13",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/client/Cosmic-Reach-0.3.13.jar",
+      "sha256": "605646025eb0fd78f607c75311f4138e4c47f4f3b964e586403711a4ffe8dc28"
+    },
     {
       "id": "pre-alpha 0.3.12",
       "type": "release",

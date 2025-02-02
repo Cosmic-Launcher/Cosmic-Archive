@@ -1,5 +1,59 @@
 [
   {
+    "version": "pre-alpha 0.3.21",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.2.jar",
+    "hash": "b490e85d7bf32b6686a45f52ade577d6b359aab464a24ada9e878a2c64f0a23a"
+  },
+  {
+    "version": "pre-alpha 0.3.20",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.20.jar",
+    "hash": "7045a419fb1c04f45608779d6c17db39d769cfeb7fb85c804bfcc4dd3f9d267b"
+  },
+  {
+    "version": "pre-alpha 0.3.19",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.19.jar",
+    "hash": "fec4aa618a0e76a1e04e9c83b885e78dd40610c1d41c2ad11b0ddf3bbb3104cf"
+  },
+  {
+    "version": "pre-alpha 0.3.18",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.18.jar",
+    "hash": "1e2f5c5c87a3731784826306a26ae2949405aee390ea75d032fbce8f21afe381"
+  },
+  {
+    "version": "pre-alpha 0.3.17",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.17.jar",
+    "hash": "0639db0b40d2791d308975a66ec1eb778935ce1bd730c2c7379626f6fef3e4df"
+  },
+  {
+    "version": "pre-alpha 0.3.16",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.16.jar",
+    "hash": "7c511cb7b6af51d2d2812ff2584f8d50cd3ad5ebf7d244fa3364de8038a00b9d"
+  },
+  {
+    "version": "pre-alpha 0.3.15",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.15.jar",
+    "hash": "cb6bf88c90f2ed956c3558d4f83cc1f2309b843537582b2e9256b8121d57ceb0"
+  },
+  {
+    "version": "pre-alpha 0.3.14",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.14.jar",
+    "hash": "0a7feeaee8277b04af6042a43dade220f8d0706542eaf76151e04bbe70bb3777"
+  },
+  {
+    "version": "pre-alpha 0.3.13",
+    "type": "release",
+    "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.13.jar",
+    "hash": "5fb4eb3da57c5ca0ad173cb46b34737fe964ffc963107aa40c25bb9bb26d042f"
+  },
+  {
     "version": "pre-alpha 0.3.12",
     "type": "release",
     "url": "https://raw.githubusercontent.com/Cosmic-Launcher/Cosmic-Archive/main/server/Cosmic-Reach-Server-0.3.12.jar",
